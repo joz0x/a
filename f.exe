@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    printf("Hello, this is an executable example!\n");
+    getchar(); // Wait for the user to press a key
+    return 0;
+}
